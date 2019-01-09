@@ -1,5 +1,5 @@
-# Implicit data based recommendation system using Alterating least squares
-This repository consists of my work on recommendation systems on different datasets
+# Implicit data based recommendation system using Alternating least squares
+This repository consists of my work on recommendation systems on different datasets such as music and retail
 
 ## Music recommendation system
 ### Table of contents
