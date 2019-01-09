@@ -13,9 +13,10 @@ With such a tremendous growth in the music industry, it becomes crucial to deliv
 
 lastfm is one of the oldest music streaming companies that started providing personalized recommendations to its listeners. Although this dataset is 10 years old, the algorithms and the methologies applied would still be relevant for the latest songs and albums.
 	
-## Technologies and packages
+## Technologies
 Project is created with:
 * Python 3.6.5
+**Packages**
 * Implicit
 
 ## Algorithms
