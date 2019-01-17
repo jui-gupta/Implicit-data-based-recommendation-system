@@ -13,7 +13,7 @@ According to a new report released by Nielsen Music, on average, Americans now s
 With such a tremendous growth in the music industry, it becomes crucial to deliver personalized music recommendation to the listeners. This piqued our curiosity to understand the process that goes behind the music recommendation engine and led us to work on this project.  
 lastfm is one of the oldest music streaming companies that started providing personalized recommendations to its listeners. Although this dataset is 10 years old, the algorithms and the methologies applied would still be relevant for the latest songs and albums.
 
-'Implicit data based recommendation system using ALS.ipynb' file has the code for the analysis
+[Implicit data based recommendation system using ALS.ipynb](https://github.com/akhilesh-reddy/Implicit-data-based-recommendation-system/blob/master/Implicit%20data%20based%20recommendation%20system%20using%20ALS.ipynb) file has the code for the analysis
 
 ### Technologies
 Project is created with:
